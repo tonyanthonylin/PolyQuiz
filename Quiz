@@ -1,3 +1,8 @@
 Explain what inheritance is.
+inheritance is to heve a a class that's made of other classes (subclasses) it makes the main class clean and organized 
+and it can be very easy to edit it's subclass.
 
 Explain what polymorphism is.
+polymorphism allows us to reference a diferent part of code in a different file. because a long code takes a long time 
+to compile and sometomes we don't really want to compile all the code together, in this case, we can use polymorphism 
+to reference diferent code together and edit codes seperately in stead of viewing them as a whole.
